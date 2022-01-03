@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class Using2DArray {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
 		Graph graph = Graph.loadGraph("graph2.dat");
 
